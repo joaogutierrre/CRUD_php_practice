@@ -1,0 +1,44 @@
+/* form_produtos*/
+
+#container{
+	margin: auto;
+	margin-top: 2em;
+	width: 35%;
+}
+.form-group{
+	margin-top: 1em;
+}
+#divbotao{
+	text-align: right;
+}
+#botao{
+	background-color: #880850;
+	color: #ffff;
+}
+
+/* form_produtos*/
+
+/*------------------------------------------------*/
+
+/*listagem_produtos*/
+
+#table{
+	width: 100%;
+	margin-top: 2em;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #084188;
+}
+#botaoEdita{
+	background-color: #DA06C4;
+
+}
+#botaoDeleta{
+	background-color: #880850;
+}
+
+
+
+
+
+/*listagem_produtos*/
