@@ -17,8 +17,7 @@
 		    <tr>
 		      <th scope="col">ID Categoria</th>
 		      <th scope="col">Nome</th>
-		    
-
+		      <th scope="col">Ações</th>
 		    </tr>
 		  </thead>
 		  
