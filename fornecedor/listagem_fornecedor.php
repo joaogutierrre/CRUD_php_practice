@@ -40,8 +40,8 @@
 				<td><?php echo $cnpjFornecedor ?></td>
 				<td>
 					<div class="text-center">
-						<a class="btn btn-warning btn-sm" href="#">Editar</a>
-						<a class="btn btn-danger btn-sm" href="#">Deletar</a>
+						<a class="btn btn-warning btn-sm" href="editar_fornecedor.php?id=<?php echo $idFornecedor ?>">Editar</a>
+						<a class="btn btn-danger btn-sm" href="">Deletar</a>
 					</div>
 				</td>
 				<?php } ?>
