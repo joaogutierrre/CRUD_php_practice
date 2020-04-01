@@ -41,7 +41,7 @@
 				<td>
 					<div class="text-center">
 						<a class="btn btn-warning btn-sm" href="editar_fornecedor.php?id=<?php echo $idFornecedor ?>">Editar</a>
-						<a class="btn btn-danger btn-sm" href="">Deletar</a>
+						<a class="btn btn-danger btn-sm" href="deletar_fornecedor.php?id=<?php echo $idFornecedor ?>">Deletar</a>
 					</div>
 				</td>
 				<?php } ?>
