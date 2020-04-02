@@ -44,7 +44,7 @@
 		   
 		      <td>
 		      	<div class="text-center">
-			      	<a class="btn btn-warning btn-sm" href="editar_categoria.php?id=<?php echo $idCategoria ?>" orle="button"><i class="fas fa-edit"></i>Editar</a>
+			      	<a class="btn btn-warning btn-sm" href="editar_categoria.php?id=<?php echo $idCategoria ?>" role="button"><i class="fas fa-edit"></i>Editar</a>
 			      	<a class="btn btn-danger btn-sm" href="deletar_categoria.php?id=<?php echo $idCategoria ?>" role="button"><i class="fas fa-user-minus"></i>Deletar</a>
 				  	
 			   </div>

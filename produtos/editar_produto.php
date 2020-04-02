@@ -16,9 +16,7 @@ $id = $_GET['id'];
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 <body>
-	<nav class="navbar navbar-dark bg-dark">
-	  <!-- Navbar content -->
-	</nav>
+	
 	<div class="container" id="container">
 		
 		<h3 class="text-center">Editar Produto</h3>
