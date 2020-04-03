@@ -37,3 +37,20 @@
 	background-color: #880850;
 }
 /*listagem*/
+
+/*-----------------------------------------------------*/
+
+/*index.php*/
+#containerIndex{
+	position: relative;
+	top: 20em;
+	padding: 1em 1em 0.5em 1em;
+	border: 2px solid #f3f3f3;
+	border-radius: 15px;
+	-webkit-box-shadow: 2px 9px 30px 6px rgba(194,194,194,0.75);
+-moz-box-shadow: 2px 9px 30px 6px rgba(194,194,194,0.75);
+box-shadow: 2px 9px 30px 6px rgba(194,194,194,0.75);
+
+}
+
+

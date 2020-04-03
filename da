@@ -1,0 +1,87 @@
+[33mcommit c7dda348c51d583c54e050ba1ac03d866632b9c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 61d3559 268cd39
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Thu Apr 2 09:17:29 2020 -0300
+
+    Averiguar depois
+
+[33mcommit 61d3559e9284139ff283d390b19a617d6bc2b5ab[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Thu Apr 2 09:13:48 2020 -0300
+
+    Criando página de login
+
+[33mcommit 268cd390a38b6c9072a31bf3af15febb55182d8a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 16:16:43 2020 -0300
+
+    Update README.md
+
+[33mcommit 59cc9960f9792c5672ea0d9fa7c14a0f05719b29[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 16:16:24 2020 -0300
+
+    Update README.md
+
+[33mcommit 21cb41d50c5a18e27717ebc942b07bd3e9fcf85d[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 16:13:43 2020 -0300
+
+    Frescura corrigida
+
+[33mcommit a7486633853120f0e339680fee46754e9d5d63f7[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 16:10:23 2020 -0300
+
+    Frescura
+
+[33mcommit d213ed1a133826af198a77dc8d1d65421a5e6fe3[m
+Merge: 941c8a9 c37eb5c
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 15:46:24 2020 -0300
+
+    Merge branch 'master' of https://github.com/joaogutierrre/CRUD_php_practice
+
+[33mcommit 941c8a91d30f43a548a1ed1315403a9c3e095c09[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 15:41:53 2020 -0300
+
+    Deleção de fornecedor implementada
+
+[33mcommit c37eb5c9fc1fa1874b44f1ab04b339e5f7a72706[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 15:11:15 2020 -0300
+
+    Update README.md
+    
+    Project explanation.
+
+[33mcommit 9a915afcda1bfd19bda4f866f6002bd71fc69bc1[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 15:10:18 2020 -0300
+
+    Create README.md
+
+[33mcommit bee2b860ebe5a6110c4cb7ac3900e4ce559745d5[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Wed Apr 1 03:28:43 2020 -0300
+
+    Edição de fornecedor adcionada
+
+[33mcommit 3a727f3c2b1de90d574e5097da728a6118020b62[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Tue Mar 31 19:32:37 2020 -0300
+
+    Dumps do banco
+
+[33mcommit 1bfb254989a40a69b6bcb5f837f6547b7a80da3b[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Tue Mar 31 04:42:18 2020 -0300
+
+    Preparando interface dos fornecedores
+
+[33mcommit b02d5189d941b078d6608d57d647e53a9984d246[m
+Author: João Gutierre <gutierrejoao@gmail.com>
+Date:   Sun Mar 29 19:54:33 2020 -0300
+
+    Primeira versão
