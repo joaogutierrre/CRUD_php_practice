@@ -104,6 +104,34 @@
 									
 								</td>
 							</tr>
+							<tr>
+								<td>
+									
+										<div class="col-sm-12">
+											<div class="card">
+												<div class="card-body">
+													<h5 class="card-title text-primary">Aprovar Usuários</h5>
+													<p class="card-text">Verificar cadastro de usuários</p>
+													<a href="aprovar_usuario.php" class="btn btn-secondary">Ir</a>
+												</div>
+											</div>
+										</div>
+									
+								</td>
+								<td> 
+									
+										<div class="col-sm-12">
+											<div class="card">
+												<div class="card-body">
+													<h5 class="card-title text-primary">Listagem de Fornecedores</h5>
+													<p class="card-text">Lista, e altera um fornecedor.</p>
+													<a href="fornecedor/listagem_fornecedor.php" class="btn btn-secondary">Ir</a>
+												</div>
+											</div>
+										</div>
+									
+								</td>
+							</tr>
 						</tbody>
 					</table>
 			</div>
