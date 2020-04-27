@@ -9,7 +9,7 @@ $fornecedor = $_POST['fornecedor'];
 
  $sql = "INSERT INTO `curso_udemy`.`produto` (`nomeProduto`, `categoria`, `quantidade`, `fornecedor`) VALUES ('$nomeproduto', '$categoria', $qtdproduto, '$fornecedor');";
 
- $inserir = mysqli_query($conexao,$sql);
+ print_r($inserir = mysqli_query($conexao,$sql));
 
  ?>
 

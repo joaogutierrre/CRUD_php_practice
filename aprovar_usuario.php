@@ -9,9 +9,9 @@
 <body>
 	<div class="container" id="table">
 		<div class="container text-center" style="padding: 1em;">
-			<a href="../index.php" class="btn btn btn-primary btn-sm" >Voltar</a>
+			<a href="index.php" class="btn btn btn-primary btn-sm" >Voltar</a>
 		</div>
-		<h3 style="padding: 1em;">Listagem de Usuarios</h3>
+		<h3 style="padding: 1em;">Listagem de aprovação de cadastros</h3>
 		<table class="table table-hover">
 		  <thead class="text-center">
 		    <tr>
@@ -56,7 +56,7 @@
 
 			      	<a class="btn btn-dark btn-sm" href="_aprovar_usuario.php?id=<?php echo $id ?>&nivel=3" role="button"><i class="fas fa-book-reader">&nbsp</i>Conferente</a>
 
-			      	<a class="btn btn-danger btn-sm" href="_deletar_usuario.php?id=<?php echo $id ?>" role="button"><i class="fas fa-user-minus">&nbsp.</i>Excluir</a>	
+			      	<a class="btn btn-danger btn-sm" href="deletar_usuario.php?id=<?php echo $id ?>" role="button"><i class="fas fa-user-minus">&nbsp.</i>Excluir</a>	
 			   </div>
 
 		      </td>
